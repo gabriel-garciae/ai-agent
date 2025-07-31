@@ -73,7 +73,7 @@ poetry add transformers torch accelerate
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 With the virtual environment active:
 
